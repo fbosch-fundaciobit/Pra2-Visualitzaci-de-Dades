@@ -2,8 +2,11 @@
 Respositori amb els scripts emprats per al tractament de dades de la pràctica 2 de Visualització de Dades (25-26)
 
 Per generar les dades:
+
   1- Descarregar repositori a dins directori arrel del projecte.
+  
   2- Executar prepare_data.py
+  
 
 Com a resultat, s'haurien de generar 6 CSVs addicionals a dins el directori Dataset, q
 ue contenen les dades utilitzades per generar les visualitzacions de dades a Flourish.
