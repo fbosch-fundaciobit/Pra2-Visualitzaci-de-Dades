@@ -9,13 +9,21 @@ Com a resultat, s'haurien de generar 6 CSVs addicionals a dins el directori Data
 ue contenen les dades utilitzades per generar les visualitzacions de dades a Flourish.
 
 Gràfiques:
+
   1- https://public.flourish.studio/visualisation/27176441/
+  
   2- https://public.flourish.studio/visualisation/27180853/
+  
   3- https://public.flourish.studio/visualisation/27181692/
+  
   4- https://public.flourish.studio/visualisation/27182444/
+  
   5- https://public.flourish.studio/visualisation/27182411/
+  
   6- https://public.flourish.studio/visualisation/27182346/
+  
   7- https://public.flourish.studio/visualisation/27182404/
+  
   8- https://public.flourish.studio/visualisation/27182381/
 
   
